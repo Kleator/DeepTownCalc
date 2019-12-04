@@ -555,11 +555,14 @@ const mines = [
 		alexandrite: "30"
 	}, {
 		area: "87",
-		amethyst: "36",
-		titanium: "26",
-		alexandrite: "25",
-		platinum: "9",
-		uranium: "2"
+		amethyst: "33",
+		titanium: "18",
+		alexandrite: "23",
+		platinum: "3",
+		uranium: "8",
+		obsidian: "10",
+		diamond: "3",
+		sapphire: "2",
 	}, {
 		area: "88",
 		amethyst: "35",
